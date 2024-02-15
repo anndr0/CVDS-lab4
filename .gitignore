@@ -1,6 +1,16 @@
-target
+target/
 .DS_Store
 /nbproject/
 .idea
 *.iml
 
+# Ignorar la carpeta target
+target/
+
+.classpath
+.project
+.settings/
+
+# Archivos generados por IntelliJ IDEA
+.idea/
+*.iws
