@@ -60,7 +60,7 @@ principio de inversión de dependencias:
    de Java a la versión 8.
 
 6. Teniendo en cuenta dichas especificaciones, en la clase donde se
-   implementarán las pruebas (GameScoreTest), en los
+   implementarán las pruebas (hangman.GameScoreTest), en los
    comentarios iniciales, especifique las clases de equivalencia para
    las tres variantes de GameScore, e identifique
    condiciones de frontera.

@@ -18,7 +18,12 @@ public class EnglishDictionaryDataSource extends HangmanDictionary {
             "BALL",
             "SOCCER",
             "RAGE",
-            "GAME"
+            "GAME",
+            "TRIANGLE",
+            "JOHAN",
+            "ANA",
+            "JUAN",
+            "ANDREA"
     };
 
     public EnglishDictionaryDataSource() {
