@@ -29,6 +29,7 @@ public class GameModel {
     private int gameScore;
     private int[] lettersUsed;
 
+    private GameScore score;
 
     private HangmanDictionary dictionary;
 
@@ -81,6 +82,7 @@ public class GameModel {
         } else {
             correctCount += positions.size();
         }
+        // cantidades correctas e incorrectas
         return positions;
 
     }
